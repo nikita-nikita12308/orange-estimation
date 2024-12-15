@@ -1,0 +1,5 @@
+.env
+node_modules/
+ui/
+db_data/
+yolo_orange_trained_model2.pt

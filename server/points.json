@@ -1,0 +1,95 @@
+{
+  "maxValue": 42,
+  "pointsData": [
+    {
+      "latitude": 35.43633270315531,
+      "longitude": 23.917265407390303,
+      "numberOfOranges": 22,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43632534421292,
+      "longitude": 23.917307556880697,
+      "numberOfOranges": 21,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43630081440004,
+      "longitude": 23.917376802472052,
+      "numberOfOranges": 15,
+      "imageUrl": "/orange-point-1.jpg"
+    },
+    {
+      "latitude": 35.43629100247282,
+      "longitude": 23.91742497331822,
+      "numberOfOranges": 32,
+      "imageUrl": "/orange-point-1.jpg"
+    },
+    {
+      "latitude": 35.43627628457971,
+      "longitude": 23.917467122808606,
+      "numberOfOranges": 42,
+      "imageUrl": "/orange-point-1.jpg"
+    },
+    {
+      "latitude": 35.436239489835216,
+      "longitude": 23.917614646024983,
+      "numberOfOranges": 12,
+      "imageUrl": "/orange-point-1.jpg"
+    },
+    {
+      "latitude": 35.43622231894868,
+      "longitude": 23.91766883822692,
+      "numberOfOranges": 2,
+      "imageUrl": "/orange-point-1.jpg"
+    },
+    {
+      "latitude": 35.43617080626713,
+      "longitude": 23.917750126529818,
+      "numberOfOranges": 12,
+      "imageUrl": "/orange-point-1.jpg"
+    },
+    {
+      "latitude": 35.436241942818704,
+      "longitude": 23.91727443942396,
+      "numberOfOranges": 15,
+      "imageUrl": "/orange-point-1.jpg"
+    },
+    {
+      "latitude": 35.436270383675776,
+      "longitude": 23.917333861615408,
+      "numberOfOranges": 22,
+      "imageUrl": "/orange-point-1.jpg"
+    },
+    {
+      "latitude": 35.43626601295756,
+      "longitude": 23.917374094751715,
+      "numberOfOranges": 22,
+      "imageUrl": "/orange-point-1.jpg"
+    },
+    {
+      "latitude": 35.436253993481195,
+      "longitude": 23.917407622365303,
+      "numberOfOranges": 22,
+      "imageUrl": "/orange-point-1.jpg"
+    },
+    {
+      "latitude": 35.43624197400302,
+      "longitude": 23.91745590212887,
+      "numberOfOranges": 22,
+      "imageUrl": "/orange-point-1.jpg"
+    },
+    {
+      "latitude": 35.43623104720314,
+      "longitude": 23.91749747636972,
+      "numberOfOranges": 1,
+      "imageUrl": "/orange-point-1.jpg"
+    },
+    {
+      "latitude": 35.43622449112249,
+      "longitude": 23.917532345087853,
+      "numberOfOranges": 0,
+      "imageUrl": "/orange-point-1.jpg"
+    }
+  ]
+}

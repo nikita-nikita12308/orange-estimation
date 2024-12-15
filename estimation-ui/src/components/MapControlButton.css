@@ -1,0 +1,56 @@
+/* MapControlButton.css */
+
+/* Container for control buttons */
+.control-container {
+  position: absolute;
+  bottom: 10px; /* Position 10px from the bottom */
+  right: 10px; /* Position 10px from the right */
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Style for each map control button */
+.map-control-button {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+  cursor: pointer;
+  background-color: #f4f4f8;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.map-control-button:hover {
+  transform: scale(1.05); /* Slightly enlarge the button on hover */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); /* More pronounced shadow on hover */
+}
+
+/* Style for the icon image inside the button */
+.map-control-button img {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  border: 2px solid #ccc; /* Border around the image */
+  border-radius: 4px;
+}
+
+/* Style for the label text inside the button */
+.map-control-button span {
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Style for selected button */
+.map-control-button.selected {
+  background-color: #007bff; /* Blue background when selected */
+  color: white; /* White text when selected */
+}
+
+.map-control-button.selected:hover {
+  background-color: #0056b3; /* Darker blue when hovered */
+}

@@ -1,0 +1,22 @@
+{
+  "user_id": "asd12d1f12f",
+  "name": "block11",
+  "number_of_oranges": 2558,
+  "detected_trees": 98,
+  "undetected_trees": 6,
+  "estimated_yield": 210,
+  "trees_number": 29,
+  "oranges_per_tree": 14,
+  "location": "North California",
+  "date": "2016-05-18T16:00:00Z",
+  "crop_type": "Oranges",
+  "av_tree_age": 14,
+  "imageBounds": [
+    [35.436688384569486, 23.915630609298653],
+    [35.435434907217974, 23.919499330381104]
+  ],
+  "imagesSources": {
+    "basic": "/map4.png",
+    "bw": "/map2.png"
+  }
+}

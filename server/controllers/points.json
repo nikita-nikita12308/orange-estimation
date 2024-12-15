@@ -1,0 +1,605 @@
+{
+  "maxValue": 42,
+  "pointsData": [
+    {
+      "latitude": 35.43633282816482,
+      "longitude": 23.917267669826987,
+      "numberOfOranges": 10,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.4363197142263,
+      "longitude": 23.91730799768032,
+      "numberOfOranges": 5,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43631806804124,
+      "longitude": 23.917342340037134,
+      "numberOfOranges": 29,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43630330616911,
+      "longitude": 23.91738672743109,
+      "numberOfOranges": 7,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436291839793256,
+      "longitude": 23.917431125671033,
+      "numberOfOranges": 10,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436277029602046,
+      "longitude": 23.91746547526715,
+      "numberOfOranges": 43,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.4362696194758,
+      "longitude": 23.917500247064556,
+      "numberOfOranges": 48,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436257011429696,
+      "longitude": 23.917539651041334,
+      "numberOfOranges": 32,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43622054775865,
+      "longitude": 23.917667865182423,
+      "numberOfOranges": 17,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436212077540624,
+      "longitude": 23.91771726509711,
+      "numberOfOranges": 1,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43618550266002,
+      "longitude": 23.917802201264138,
+      "numberOfOranges": 19,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436186887199874,
+      "longitude": 23.91780390234066,
+      "numberOfOranges": 14,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43628489073717,
+      "longitude": 23.917284719830533,
+      "numberOfOranges": 19,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436269524270465,
+      "longitude": 23.91732927751592,
+      "numberOfOranges": 17,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43626537831966,
+      "longitude": 23.91736517340604,
+      "numberOfOranges": 9,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436250069689194,
+      "longitude": 23.917409658349815,
+      "numberOfOranges": 29,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43624305708624,
+      "longitude": 23.917449052097073,
+      "numberOfOranges": 3,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43623323020403,
+      "longitude": 23.91749357079738,
+      "numberOfOranges": 32,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436222103035874,
+      "longitude": 23.917529474875142,
+      "numberOfOranges": 50,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43620950153073,
+      "longitude": 23.917568803394136,
+      "numberOfOranges": 46,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436198292863146,
+      "longitude": 23.917608083324513,
+      "numberOfOranges": 26,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43618712297041,
+      "longitude": 23.917655858413035,
+      "numberOfOranges": 20,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43617316304371,
+      "longitude": 23.91770014787064,
+      "numberOfOranges": 20,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436161979982174,
+      "longitude": 23.917751163435064,
+      "numberOfOranges": 36,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436148064076804,
+      "longitude": 23.917788516107542,
+      "numberOfOranges": 39,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43624432624201,
+      "longitude": 23.917274779434123,
+      "numberOfOranges": 16,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43623321718224,
+      "longitude": 23.917314070609798,
+      "numberOfOranges": 25,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43622625750057,
+      "longitude": 23.917349980199273,
+      "numberOfOranges": 36,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43621373637672,
+      "longitude": 23.917394433470516,
+      "numberOfOranges": 26,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43620398944955,
+      "longitude": 23.91744060128034,
+      "numberOfOranges": 16,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43619701293485,
+      "longitude": 23.917478224385597,
+      "numberOfOranges": 40,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43616910363418,
+      "longitude": 23.917560274071626,
+      "numberOfOranges": 32,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43615513301734,
+      "longitude": 23.91760293275065,
+      "numberOfOranges": 33,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43614678851739,
+      "longitude": 23.91765067576403,
+      "numberOfOranges": 27,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43613426713857,
+      "longitude": 23.917691543346873,
+      "numberOfOranges": 38,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436123122429514,
+      "longitude": 23.917732306285888,
+      "numberOfOranges": 25,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436103689965066,
+      "longitude": 23.917781477835305,
+      "numberOfOranges": 26,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436205062783195,
+      "longitude": 23.917214094817613,
+      "numberOfOranges": 29,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43619958166589,
+      "longitude": 23.917259977329184,
+      "numberOfOranges": 33,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43618851502796,
+      "longitude": 23.91730084147184,
+      "numberOfOranges": 43,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43617880751549,
+      "longitude": 23.91734177949418,
+      "numberOfOranges": 30,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43617187575878,
+      "longitude": 23.917384433318045,
+      "numberOfOranges": 5,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436163287381305,
+      "longitude": 23.917424298124292,
+      "numberOfOranges": 47,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436156312290855,
+      "longitude": 23.917467090390115,
+      "numberOfOranges": 35,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436136759395595,
+      "longitude": 23.917545799607467,
+      "numberOfOranges": 24,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43612138889318,
+      "longitude": 23.917590227814568,
+      "numberOfOranges": 32,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43610743638731,
+      "longitude": 23.917631190528905,
+      "numberOfOranges": 42,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436083707853214,
+      "longitude": 23.91772821695287,
+      "numberOfOranges": 4,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43607118327061,
+      "longitude": 23.917767244873858,
+      "numberOfOranges": 23,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436167123268234,
+      "longitude": 23.917202588530433,
+      "numberOfOranges": 45,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43615885578266,
+      "longitude": 23.917248549846775,
+      "numberOfOranges": 18,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43615054701401,
+      "longitude": 23.917282657330095,
+      "numberOfOranges": 24,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43614782280932,
+      "longitude": 23.91732699033863,
+      "numberOfOranges": 9,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43613529497924,
+      "longitude": 23.91736974245245,
+      "numberOfOranges": 2,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43612975008402,
+      "longitude": 23.917410744071184,
+      "numberOfOranges": 3,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43612002484001,
+      "longitude": 23.917450053845528,
+      "numberOfOranges": 41,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436108873162844,
+      "longitude": 23.917491096491386,
+      "numberOfOranges": 17,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43609466951152,
+      "longitude": 23.91753162355207,
+      "numberOfOranges": 5,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436082733483616,
+      "longitude": 23.917579859394053,
+      "numberOfOranges": 25,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43607166446883,
+      "longitude": 23.917624090644647,
+      "numberOfOranges": 39,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43604554411418,
+      "longitude": 23.917716846013334,
+      "numberOfOranges": 44,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43607431143045,
+      "longitude": 23.917769973927953,
+      "numberOfOranges": 49,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43612539912631,
+      "longitude": 23.917188867149047,
+      "numberOfOranges": 17,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43611718414593,
+      "longitude": 23.917234802958685,
+      "numberOfOranges": 23,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43611029625171,
+      "longitude": 23.917275819401464,
+      "numberOfOranges": 18,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43610063866198,
+      "longitude": 23.917318604078726,
+      "numberOfOranges": 27,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43609372980677,
+      "longitude": 23.917354564084913,
+      "numberOfOranges": 22,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43608821688744,
+      "longitude": 23.917398973387265,
+      "numberOfOranges": 32,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43608134488804,
+      "longitude": 23.917453568444028,
+      "numberOfOranges": 22,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43604145197916,
+      "longitude": 23.91757119081774,
+      "numberOfOranges": 40,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43603461806014,
+      "longitude": 23.917608459214943,
+      "numberOfOranges": 9,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43602644915994,
+      "longitude": 23.917652306619257,
+      "numberOfOranges": 17,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43601154804415,
+      "longitude": 23.917707586007456,
+      "numberOfOranges": 34,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436089393154376,
+      "longitude": 23.917175214891394,
+      "numberOfOranges": 8,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436000348534755,
+      "longitude": 23.917749037300656,
+      "numberOfOranges": 46,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43607828183821,
+      "longitude": 23.917224657476563,
+      "numberOfOranges": 43,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436065392365265,
+      "longitude": 23.917258152921658,
+      "numberOfOranges": 4,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43606851002052,
+      "longitude": 23.917301432243097,
+      "numberOfOranges": 25,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436061351061824,
+      "longitude": 23.917343500688467,
+      "numberOfOranges": 24,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43605277651778,
+      "longitude": 23.917387289080963,
+      "numberOfOranges": 11,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43604429014747,
+      "longitude": 23.91743620811283,
+      "numberOfOranges": 29,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436034271829236,
+      "longitude": 23.91747122297739,
+      "numberOfOranges": 10,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43602273504188,
+      "longitude": 23.91751495219728,
+      "numberOfOranges": 24,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436013929534475,
+      "longitude": 23.917558581605963,
+      "numberOfOranges": 12,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.435998211372734,
+      "longitude": 23.917603574700532,
+      "numberOfOranges": 18,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43598660935126,
+      "longitude": 23.917639820098795,
+      "numberOfOranges": 43,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436007684364085,
+      "longitude": 23.91770375801269,
+      "numberOfOranges": 26,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43599606579755,
+      "longitude": 23.9177432801666,
+      "numberOfOranges": 19,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43605147746209,
+      "longitude": 23.917160572535767,
+      "numberOfOranges": 17,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43604170202132,
+      "longitude": 23.91720733114563,
+      "numberOfOranges": 30,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43603615758982,
+      "longitude": 23.917247109737634,
+      "numberOfOranges": 2,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43602910247858,
+      "longitude": 23.917290450559477,
+      "numberOfOranges": 15,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43602651401361,
+      "longitude": 23.917330101008965,
+      "numberOfOranges": 28,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43601368365467,
+      "longitude": 23.91737529220106,
+      "numberOfOranges": 19,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43600534410652,
+      "longitude": 23.91741852565497,
+      "numberOfOranges": 8,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.436003941645076,
+      "longitude": 23.91742371990664,
+      "numberOfOranges": 14,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.435986963056976,
+      "longitude": 23.917505084168777,
+      "numberOfOranges": 38,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43597969054894,
+      "longitude": 23.917551786440114,
+      "numberOfOranges": 42,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43596116970326,
+      "longitude": 23.91759839900604,
+      "numberOfOranges": 27,
+      "imageUrl": "/point_image1.jpg"
+    },
+    {
+      "latitude": 35.43596261887137,
+      "longitude": 23.917589778719027,
+      "numberOfOranges": 20,
+      "imageUrl": "/point_image1.jpg"
+    }
+  ]
+}
